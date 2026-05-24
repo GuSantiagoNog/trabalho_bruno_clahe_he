@@ -320,17 +320,6 @@ Tempo medido: **{tempo_he:.4f} ms**
 
 Tempo medido: **{tempo_clahe:.4f} ms**
 
----
-
-### Complexidade Computacional
-
-| Método | Complexidade |
-|--------|-------------|
-| HE | Global |
-| AHE Ingênua | O(r²) |
-| Huang | O(r) |
-| Perreault e Hébert | O(1) |
-
 """)
 
     # ==================================================
